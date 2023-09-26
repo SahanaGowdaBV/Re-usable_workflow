@@ -5,7 +5,7 @@ on:
 
 jobs:
   job1:
-    uses: octo-org/example-repo/.github/workflows/called-workflow.yml@v1
+    uses: SahanaGowdaBV/Re-usable_workflow/.github/workflows/actions.yml@main
 
   job2:
     runs-on: ubuntu-latest
